@@ -32,7 +32,7 @@
 <h2 id="layout">Layout</h2>
 <img alt="Dashboard" title="#dashboard" src="https://user-images.githubusercontent.com/60238162/136124068-46009011-30da-4e86-9276-2abefe70ce2b.png" />
 <img alt="Modal" title="#modal" src="https://user-images.githubusercontent.com/60238162/136124255-83e19279-17fb-4b23-a8ba-23c7acffd2ff.png" />
-<img alt="Updated dashboard" title="#updated-dashboard" src="https://user-images.githubusercontent.com/60238162/136124473-bd295c09-def6-441a-b357-bbbc67e22c02.png" />
+<img alt="Updated dashboard" title="#updated-dashboard" src="https://user-images.githubusercontent.com/60238162/136126881-2c3595fa-1934-4cd1-b5bb-a63aaf91cb0a.png" />
 <small>User Interface by @tiagoluchtenberg</small>
 
 <h2 id="technologies">Tecnologias</h2>
